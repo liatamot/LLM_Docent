@@ -1,4 +1,4 @@
-# Persion AI Docent(Upstage X Seoul National University Mini Project)
+# Personal AI Docent(Upstage X Seoul National University Hack-a-thon Project)
 
 ## 1.Overview
 Upsatge API를 활용하여 미술 작품에 대해 궁금한 점을 질의 응답할 수 있는 대화형 AI 구현
